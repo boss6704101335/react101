@@ -1,0 +1,17 @@
+export const styles = {
+  container: "max-w-3xl mx-auto p-4",
+  title: "text-2xl font-bold mb-4 text-center",
+  form: "bg-white p-6 rounded shadow space-y-4",
+  input: "border p-2 rounded w-full",
+  select: "border p-2 rounded",
+  textarea: "border p-2 rounded w-full",
+  flexRow: "flex gap-2",
+  flexItem: "flex-1",
+  buttonAdd: "bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600",
+  list: "mt-6 space-y-4",
+  listItem: "flex justify-between items-start bg-gray-50 p-4 rounded shadow",
+  memberInfo: "flex gap-4",
+  photo: "w-16 h-16 object-cover rounded",
+  buttonEdit: "bg-yellow-400 text-white px-2 py-1 rounded hover:bg-yellow-500",
+  buttonDelete: "bg-red-500 text-white px-2 py-1 rounded hover:bg-red-600",
+};
